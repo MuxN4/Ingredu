@@ -1,6 +1,6 @@
 # Ingredu
 
-Ingredu is a recipe finder application that allows users to search for recipes using the Edamam API. It provides detailed recipe information and links to YouTube for cooking videos, while also enabling users to save their favorite recipes locally.
+Ingredu is a recipe finder application that allows users to search for recipes using the Edamam API. It provides detailed recipe information and links to YouTube for cooking videos, while also enabling users to save their favorite recipes locally.,
 
 ## Screenshots
 
